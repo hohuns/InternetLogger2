@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/InternetLogger2/static/css/main.c633f605.chunk.css",
+    "main.js": "/InternetLogger2/static/js/main.313253d8.chunk.js",
+    "main.js.map": "/InternetLogger2/static/js/main.313253d8.chunk.js.map",
+    "runtime-main.js": "/InternetLogger2/static/js/runtime-main.f4d42934.js",
+    "runtime-main.js.map": "/InternetLogger2/static/js/runtime-main.f4d42934.js.map",
+    "static/js/2.1c8c6549.chunk.js": "/InternetLogger2/static/js/2.1c8c6549.chunk.js",
+    "static/js/2.1c8c6549.chunk.js.map": "/InternetLogger2/static/js/2.1c8c6549.chunk.js.map",
+    "index.html": "/InternetLogger2/index.html",
+    "precache-manifest.700aff2a73a1d4e9421a94dc3b4c7a00.js": "/InternetLogger2/precache-manifest.700aff2a73a1d4e9421a94dc3b4c7a00.js",
+    "service-worker.js": "/InternetLogger2/service-worker.js",
+    "static/css/main.c633f605.chunk.css.map": "/InternetLogger2/static/css/main.c633f605.chunk.css.map",
+    "static/js/2.1c8c6549.chunk.js.LICENSE.txt": "/InternetLogger2/static/js/2.1c8c6549.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4d42934.js",
+    "static/js/2.1c8c6549.chunk.js",
+    "static/css/main.c633f605.chunk.css",
+    "static/js/main.313253d8.chunk.js"
+  ]
+}
